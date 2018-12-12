@@ -76,3 +76,27 @@ body {
   -ms-font-feature-settings: "lnum";
   -webkit-font-feature-settings: "lnum";
   font-feature-settings: "lnum"; }
+
+  body{
+    font-family: sans-serif;
+    margin-left: 20px;
+    margin-top: 20px;
+
+  }
+
+  h1{
+    font-size: 2em;
+    font-weight: 700;
+  }
+
+  h2{
+    font-size: 1.5em;
+    font-weight: 600;
+  }
+
+  p{
+    background-color: #bbb;
+    padding: 20px;
+    margin-top: 20px;
+
+  }
